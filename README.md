@@ -20,3 +20,4 @@ You can add this plugin to your nvim with the following:
 ```
 paq {'glassinatorn/figlet-banner'}
 ```
+
